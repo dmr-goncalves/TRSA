@@ -1,0 +1,5 @@
+Header Header
+Int16 Group_number 
+geometry_msgs/Point Object_position 
+Bag_name std_msgs/String
+Thermal_label std_msgs/Int8
