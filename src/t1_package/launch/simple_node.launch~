@@ -1,0 +1,9 @@
+<launch>
+<node name="node" pkg="turtlesim" type="turtlesim_node" />
+<node name="node" pkg="t1_package" type="simple_node" output="screen" />
+<node name="simple_node_2" pkg="t1_package" type="simple_node2" output="screen" />
+<!-- set parameters -->
+
+
+
+</launch>
